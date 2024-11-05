@@ -1,5 +1,5 @@
-//package com.ascent.bean;
-
+package com.ascent.bean;
+getfuck
 /**
  * 实体类User，用来描述用户的信息类
  * @author ascent
